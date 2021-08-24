@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "137977814042",
+    "firebase_url": "https://vandana-clothing.firebaseio.com",
+    "project_id": "vandana-clothing",
+    "storage_bucket": "vandana-clothing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137977814042:android:48ee9e1b8fb84e1a4405a3",
+        "android_client_info": {
+          "package_name": "com.v4tech.vandana_clothing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137977814042-7ltnigc3od4p3ckvbrg3v6ghl31491cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.v4tech.vandana_clothing",
+            "certificate_hash": "1c44d7511a88ed78fd7f5dfb5b70fd487589a911"
+          }
+        },
+        {
+          "client_id": "137977814042-h7fir235cu19md47gq2280maoin8ohdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.v4tech.vandana_clothing",
+            "certificate_hash": "40dacd61ef37a11d2d79ef4b030e492669e5a8e4"
+          }
+        },
+        {
+          "client_id": "137977814042-qpm55rdblrepmfmpqian0v6t4ku9dc9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.v4tech.vandana_clothing",
+            "certificate_hash": "23c0cec38ba6ec406df452d2c2b16ea4b48e9f88"
+          }
+        },
+        {
+          "client_id": "137977814042-4e10s98ssj3ec3fittr74mujai8n34b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1MMNFrpZrnEVbkgjrYbXdGY02x1i0lDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137977814042-4e10s98ssj3ec3fittr74mujai8n34b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137977814042:android:1ca900af8e59c6bd4405a3",
+        "android_client_info": {
+          "package_name": "com.v4tech.vc_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137977814042-qthtl9qvn4nl5c6tefn1r91h2iqt6nba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.v4tech.vc_admin",
+            "certificate_hash": "1c44d7511a88ed78fd7f5dfb5b70fd487589a911"
+          }
+        },
+        {
+          "client_id": "137977814042-ufq4mihb5rcngqj5lfb64ci4jqbpk7o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.v4tech.vc_admin",
+            "certificate_hash": "40dacd61ef37a11d2d79ef4b030e492669e5a8e4"
+          }
+        },
+        {
+          "client_id": "137977814042-4e10s98ssj3ec3fittr74mujai8n34b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1MMNFrpZrnEVbkgjrYbXdGY02x1i0lDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137977814042-4e10s98ssj3ec3fittr74mujai8n34b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
